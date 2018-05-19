@@ -4,5 +4,7 @@ public class Hello {
     System.out.println("Hello World!");
 
     System.out.println("Hello Nagoya!");
+
+    System.out.println("Hello Tokyo!");
   }
 }
